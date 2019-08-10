@@ -1,0 +1,4 @@
+.gitattributes
+nbproject
+bdd
+Require/config.php
