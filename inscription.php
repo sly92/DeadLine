@@ -93,8 +93,9 @@
 					 
 					
 					</div> -->
+					
+					<div class="co" style="padding-right: 2em;">
 					<input class="submit" type="submit" name="submit" value="S'inscrire" style="float: right" />
-					<div class="co" style="padding-right: 1em;">
 					<button><a href="authentification.php">Login</a></button>
 					</div>​
 					 <br> <br>

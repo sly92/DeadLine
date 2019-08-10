@@ -61,9 +61,9 @@
 						  <input type="password" name="pass" id="pass" value="" /> <br><br><br>
 						  
 						</p>
+					<div class="co" style=" padding-right: 2em;">
 						<input class="submit" type="submit" name="submit" value="Connexion" style="float:right"/>
-					<div class="co" style=" padding-right: 1em;">
-					<button><a href="inscription.php">Inscription</a></button>
+						<button><a href="inscription.php">Inscription</a></button>
 					</div>​
 						<?php
 	  
